@@ -8,9 +8,9 @@ L'objectif : qu'une petite entreprise qui n'a ni service client 24/7 ni équipe 
 
 <table>
   <tr>
-    <td><img src="docs/assets/images/kwiko1.png" width="270" alt="Dashboard"></td>
-    <td><img src="docs/assets/images/kwiko2.png" width="270" alt="FAQ"></td>
-    <td><img src="docs/assets/images/kwiko3.png" width="270" alt="Messages"></td>
+    <td><img src="docs/assets/images/kwiko1.png" width="270" alt="Page connexion"></td>
+    <td><img src="docs/assets/images/kwiko2.png" width="270" alt="Page Inscription"></td>
+    <td><img src="docs/assets/images/kwiko3.png" width="270" alt="Page Inscription étape 2"></td>
   </tr>
   <tr>
     <td align="center"><sub>Page connexion</sub></td>
