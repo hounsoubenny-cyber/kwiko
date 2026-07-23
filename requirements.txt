@@ -1,0 +1,47 @@
+# Généré à partir des imports réels du backend Kwiko, versions figées sur
+# l'environnement de développement (Python 3.11+).
+#
+# Vérifié en croisant chaque `import`/`from ... import` du code avec `pip list`
+# (voir README > Installation pour le détail des dépendances par fichier).
+
+# --- API / serveur ---
+fastapi==0.122.0
+uvicorn[standard]==0.38.0
+slowapi==0.1.9
+
+# --- Base de données ---
+sqlmodel==0.0.31
+SQLAlchemy==2.0.44
+aiosqlite==0.21.0
+
+# --- RAG (recherche sémantique) ---
+sentence-transformers==5.2.2
+faiss-cpu==1.13.2
+numpy==2.4.2
+
+# --- LLM ---
+groq==1.2.0
+
+# --- WhatsApp / HTTP sortant ---
+httpx==0.28.1
+aiohttp==3.13.3
+
+# --- Auth ---
+python-jose[cryptography]==3.5.0
+bcrypt==5.0.0
+
+# --- Config / environnement ---
+python-dotenv==1.0.1
+pydantic==2.12.5
+
+# --- Compatibilité event loop ---
+nest-asyncio==1.6.0
+
+# --- Tests (dev uniquement — pas nécessaire en production) ---
+pytest==9.0.1
+
+# Note : `torch` n'est pas listé explicitement ci-dessus — il est installé
+# automatiquement comme dépendance de `sentence-transformers`. Le fixer ici
+# n'est utile que si vous ciblez une variante précise (CPU-only vs CUDA) ;
+# dans ce cas, installez-le AVANT sentence-transformers avec l'index PyTorch
+# adapté à votre machine (voir https://pytorch.org/get-started/locally/).
