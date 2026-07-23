@@ -13,8 +13,14 @@ L'objectif : qu'une petite entreprise qui n'a ni service client 24/7 ni équipe 
 </div>
 
 ## 🎥 Démonstration vidéo
-
-[![Vidéo de démonstration](https://img.shields.io/badge/▶️_Vidéo-Démonstration-FF0000?style=for-the-badge&logo=youtube)](docs/assets/videos/kwiko_video1.webm)
+<div align="center">
+  <video width="80%" controls>
+    <source src="docs/assets/videos/kwiko_video1.webm" type="video/webm">
+    Votre navigateur ne supporte pas la lecture de vidéos.
+  </video>
+  <br>
+  <em>Démonstration du chatbot en action</em>
+</div>
 
 ## Sommaire
 
