@@ -4,23 +4,24 @@
 
 L'objectif : qu'une petite entreprise qui n'a ni service client 24/7 ni équipe technique puisse, en quelques minutes, avoir un assistant WhatsApp capable de répondre à ses clients de façon pertinente, sans jamais inventer d'information qui ne figure pas dans sa FAQ.
 
-## 📸 Aperçu de l'application (Inscription)
+## 📸 Aperçu de l'application
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
-  <img src="docs/assets/images/kwiko1.png" alt="Dashboard" style="width: 100%;">
-  <img src="docs/assets/images/kwiko2.png" alt="FAQ" style="width: 100%;">
-  <img src="docs/assets/images/kwiko3.png" alt="Messages" style="width: 100%;">
-</div>
+<table>
+  <tr>
+    <td><img src="docs/assets/images/kwiko1.png" width="270" alt="Dashboard"></td>
+    <td><img src="docs/assets/images/kwiko2.png" width="270" alt="FAQ"></td>
+    <td><img src="docs/assets/images/kwiko3.png" width="270" alt="Messages"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Dashboard</sub></td>
+    <td align="center"><sub>FAQ</sub></td>
+    <td align="center"><sub>Messages</sub></td>
+  </tr>
+</table>
 
 ## 🎥 Démonstration vidéo
-<div align="center">
-  <video width="80%" controls>
-    <source src="docs/assets/videos/kwiko_video1.webm" type="video/webm">
-    Votre navigateur ne supporte pas la lecture de vidéos.
-  </video>
-  <br>
-  <em>Démonstration du chatbot en action</em>
-</div>
+
+https://github.com/user-attachments/assets/8a13b5e2-7c53-4e79-99e3-9bbc5476e035
 
 ## Sommaire
 
