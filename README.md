@@ -13,9 +13,9 @@ L'objectif : qu'une petite entreprise qui n'a ni service client 24/7 ni équipe 
     <td><img src="docs/assets/images/kwiko3.png" width="270" alt="Messages"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Dashboard</sub></td>
-    <td align="center"><sub>FAQ</sub></td>
-    <td align="center"><sub>Messages</sub></td>
+    <td align="center"><sub>Page connexion</sub></td>
+    <td align="center"><sub>Page Inscription</sub></td>
+    <td align="center"><sub>Page Inscription étape 2</sub></td>
   </tr>
 </table>
 
