@@ -39,7 +39,6 @@ https://github.com/user-attachments/assets/8a13b5e2-7c53-4e79-99e3-9bbc5476e035
 - [Tests](#tests)
 - [Sécurité — points d'attention](#sécurité--points-dattention)
 - [Limitations connues / pistes d'amélioration](#limitations-connues--pistes-daméliorations)
-- [Licence](#licence)
 
 ## Comment ça marche
 
